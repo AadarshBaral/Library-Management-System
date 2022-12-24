@@ -10,7 +10,7 @@ __pycache__/
 library_env/
 
 #media file
-media/images*
+media/images/*
 *.sqlite3
 # Distribution / packaging
 .Python
